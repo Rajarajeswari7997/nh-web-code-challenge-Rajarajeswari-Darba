@@ -11,7 +11,6 @@ Built as part of the Nice Healthcare Frontend Engineering Take-Home Assessment.
 - TypeScript 5
 - Vite 5
 - CSS Modules
-<<<<<<< HEAD
 
 ## Features
 
@@ -48,14 +47,9 @@ Clinician Home → Patient Home → Clinician Home
 
 Clinician Home → Patient Home → Nearest Lab → Clinician Home
 
----
->>>>>>> cc0b91c (Improve README and project documentation)
-
 ## Setup
 
-<<<<<<< HEAD
-=======
-```txt
+
 src/
 ├── components
 │   ├── ClinicianDispatch.tsx
@@ -85,9 +79,7 @@ src/
 ### Install dependencies
 
 ```bash
->>>>>>> cc0b91c (Improve README and project documentation)
 npm install
-```
 
 ### Start development server
 
@@ -98,13 +90,7 @@ npm run dev
 ## Build
 =======
 Open:
-
-```txt
 http://localhost:5173
-```
-
----
->>>>>>> cc0b91c (Improve README and project documentation)
 
 npm run build
 
