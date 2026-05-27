@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Nice Healthcare Clinician Dispatch Dashboard
 
-=======
 # Nice Healthcare — Clinician Dispatch Dashboard
 
 A production-style React + TypeScript application that determines the optimal clinician assignment for a patient visit based on estimated total travel distance.
@@ -206,10 +203,6 @@ Potential optimization factors beyond distance:
 - clinician shift balancing
 - appointment scheduling windows
 
----
-
-
----
 
 ## Author
 
