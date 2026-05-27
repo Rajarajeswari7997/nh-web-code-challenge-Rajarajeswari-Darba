@@ -5,9 +5,6 @@ A production-style React + TypeScript application that determines the optimal cl
 
 Built as part of the Nice Healthcare Frontend Engineering Take-Home Assessment.
 
----
-
->>>>>>> cc0b91c (Improve README and project documentation)
 ## Tech Stack
 
 - React 18
