@@ -86,7 +86,7 @@ npm install
 ```bash
 npm run dev
 
-<<<<<<< HEAD
+
 ## Build
 =======
 Open:
@@ -94,7 +94,6 @@ http://localhost:5173
 
 npm run build
 
-<<<<<<< HEAD
 ## Architecture Decisions
 
 ## Assumptions
