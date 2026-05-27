@@ -88,7 +88,7 @@ npm run dev
 ## Build
 =======
 Open:
-http://localhost:5173
+http://localhost:5173 
 
 npm run build
 
