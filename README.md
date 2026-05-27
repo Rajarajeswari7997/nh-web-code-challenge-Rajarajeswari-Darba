@@ -22,7 +22,6 @@ Built as part of the Nice Healthcare Frontend Engineering Take-Home Assessment.
 =======
 - Functional React Hooks
 
----
 
 ## Features
 
@@ -35,7 +34,7 @@ Built as part of the Nice Healthcare Frontend Engineering Take-Home Assessment.
 - Immutable readonly datasets
 - Modular business logic with reusable hooks/utilities
 
----
+
 
 ## Dispatch Flow
 
@@ -99,13 +98,11 @@ npm run build
 ## Assumptions
 
 ## Production Improvements
-=======
+
 ```bash
 npm run build
 npm run preview
-```
 
----
 
 ## Architecture Decisions
 
