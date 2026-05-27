@@ -19,7 +19,6 @@ Built as part of the Nice Healthcare Frontend Engineering Take-Home Assessment.
 - Lab routing support
 - Accessibility improvements
 - Immutable architecture
-=======
 - Functional React Hooks
 
 
